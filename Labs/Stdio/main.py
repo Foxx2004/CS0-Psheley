@@ -21,6 +21,8 @@ print("Welcome to ASCII Art Program...\n")
 # prompt user to enter the semester and store the value into semester variable using input function
 semester: str = input("What semester is this [Fall/Spring]? ")
 print("This is " + semester + " semester.\n")
+name: str = input("what is your name.\n")
+year: str = input("what is the year?.\n")
 
 # FIXME5: prompt user to enter the year and store the value into year variable using input function
 # FIXME6: print the year using the variable as the following output
@@ -29,11 +31,13 @@ print("This is " + semester + " semester.\n")
 print("Hope you like my ASCII art...\n\n")
 
 line1: str = "    |\\_/|    *********************  (\\_/)\n"
-line2: str = "  / @  @ \    *   1/30/24      *   (='.'=)\n"
+line2: str = "  / @  @ \    *   1/30/24        * (='.'=)\n"
 line3: str = " ( > 0 <  )   *  <Parker Sheley> * (\")_(\")\n"
-line4: str = "   >>x<<      *   CSCI 110    *\n"          
+line4: str = "   >>x<<      *   CSCI 110       *\n"          
 line5: str = " /   O  \    *********************"
 print(line1+line2+line3+line4+line5)
+print("Nice meeting you "+name+"!")
+print("This is the year of "+year+ " and you are in the " +semester+ " Semester" )
 
 # FIXME7: use variable to print the second line of the graphic
 # FIXME8: print the third line of the graphics
