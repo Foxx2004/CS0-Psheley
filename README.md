@@ -23,7 +23,7 @@ ________________________________________________________________________________
 | Location: | https://github.com/cchepko2/CS0-cchepko2/tree/main/labs/anscii_art |
 | Notes: | In Progress|
 
-## Lab #2
+## Lab #2a
 | Name | Value |
 | --- | --- |
 | Name: | AddTwoNumbers |
@@ -31,4 +31,14 @@ ________________________________________________________________________________
 | Due Date: | 2/7/23 |
 | Status: | Complete |
 | Location: | C:\Users\pfs20\CS110\CS0-Psheley\Labs\Stdio\math\addtwonumbers\main.py |
+| Notes: | Complete |
+
+## Lab #2b
+| Name | Value |
+| --- | --- |
+| Name: | Circle |
+| Description: | "Circle" |
+| Due Date: | 2/8/23 |
+| Status: | Complete |
+| Location: | C:\Users\pfs20\CS110\CS0-Psheley\Labs\Stdio\math\addtwonumbers\circle.py |
 | Notes: | Complete |
