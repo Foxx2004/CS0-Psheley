@@ -10,6 +10,14 @@
 | Repository | https://github.com/cchepko2/CS0-cchepko2 |
 
 _______________________________________________________________________________________________________________
+# Assignments
+
+## 1 - Std IO
+| program prints four playing cards|
+| met all the requirements|
+| ran and tested the program many times|
+| I deserve 100% grade|
+
 
 # LABS
 
