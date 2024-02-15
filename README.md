@@ -12,12 +12,19 @@
 _______________________________________________________________________________________________________________
 # Assignments
 
-## 1 - Std IO
+## 1 - Stdio
 | program prints four playing cards|
 | met all the requirements|
 | ran and tested the program many times|
-| I deserve 100% grade|
+| I deserve a 100% grade|
 
+## 2 - Trangle
+|Program takes 3 sides and properly calculates area and peremeter
+|met all reqirements|
+|Tested with many triangles got correct each time|
+|I deserve a 100% grade|
+
+_______________________________________________________________________________________________________________
 
 # LABS
 

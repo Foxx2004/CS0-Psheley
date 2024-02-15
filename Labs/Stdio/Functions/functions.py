@@ -55,7 +55,7 @@ def meetAndGreet():
 
 def convertTime(seconds):
     """
-    #FIXME - #fixed#
+    #FIXME# - #fixed#
     Define a function named convertTime that takes 1 integer argument called seconds.
     The function converts and prints the seconds in hours, minute, and seconds formats.
     """
@@ -75,7 +75,7 @@ def findSeconds(hours):
     Define a function named findSeconds that takes hours as 1 integer argument.
     The function converts hours into seconds and returns it
     """
-    # FIXME4 - #fixed# convert hours into seconds and update seconds variable
+    # FIXME4 - convert hours into seconds and update seconds variable - #fixed#
     # Hint: there are 3600 seconds in 1 hour
     seconds = (hours * 3600)
     return seconds
@@ -87,7 +87,7 @@ def testFunctions():
     assert(findSeconds(3) == 3600 * 3)
     assert(findSeconds(8) == 3600 * 8)
     assert(findSeconds(5) == 3600 * 5)
-    # FIXME5 #fixed#- write 3 more tests cases for findSeconds function
+    # FIXME5 - write 3 more tests cases for findSeconds function - #fixed#
 
     print('all test cases passed...')
 
