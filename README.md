@@ -61,7 +61,7 @@ ________________________________________________________________________________
 | Notes: | Complete |
 | Grade: | 100% |
 
-## Lab #3
+## Lab #3a
 | Name | Value |
 | --- | --- |
 | Name: | Functions |
@@ -69,6 +69,17 @@ ________________________________________________________________________________
 | Due Date: | 2/13/24 |
 | Status: | Complete |
 | Location: |C:\Users\pfs20\CS110\CS0-Psheley\Labs\Stdio\Functions\functions.py|
+| Notes: | Complete |
+| Grade: | 100% |
+
+## Lab #3b
+| Name | Value |
+| --- | --- |
+| Name: | bijele |
+| Description: | "make output that shows how many chess peices you need" |
+| Due Date: | 2/15/24 |
+| Status: | Complete |
+| Location: |C:\Users\pfs20\CS110\CS0-Psheley\Labs\Stdio\kattis\bijele.py|
 | Notes: | Complete |
 | Grade: | 100% |
 
