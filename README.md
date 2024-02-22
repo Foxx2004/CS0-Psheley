@@ -83,3 +83,14 @@ ________________________________________________________________________________
 | Notes: | Complete |
 | Grade: | 100% |
 
+## Lab #4a
+| Name | Value |
+| --- | --- |
+| Name: | conditionals |
+| Description: | "Check if number has certain conditinals then print results" |
+| Due Date: | 2/29/24 |
+| Status: | Complete |
+| Location: |C:\Users\pfs20\CS110\CS0-Psheley\Labs\Stdio\conditionals\conditionals.py|
+| Notes: | Complete |
+| Grade: | 100% |
+
