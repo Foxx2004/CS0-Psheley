@@ -152,7 +152,7 @@ def test():
 
 # FIXME10-fixed
 # call test function
-
+test()
 # call main function
 main()
-test()
+
