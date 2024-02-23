@@ -19,9 +19,15 @@ ________________________________________________________________________________
 | I deserve a 100% grade|
 
 ## 2 - Trangle
-|Program takes 3 sides and properly calculates area and peremeter
+|Program takes 3 sides and properly calculates area and peremeter|
 |met all reqirements|
 |Tested with many triangles got correct each time|
+|I deserve a 100% grade|
+
+## 3 - Functions
+|Takes 2 numbers from user and puts numbers through differnt opperations|
+|met all reqirements|
+|All test cases passed and ran with multiple numbers and varified with 3rd party calculator|
 |I deserve a 100% grade|
 
 _______________________________________________________________________________________________________________
