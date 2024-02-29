@@ -100,3 +100,13 @@ ________________________________________________________________________________
 | Notes: | Complete |
 | Grade: | 100% |
 
+## Lab #5a
+| Name | Value |
+| --- | --- |
+| Name: | oddities |
+| Description: | "Checks how many numbers you want to test returns if each number is even or odd" |
+| Due Date: | 3/3/24 |
+| Status: | Complete |
+| Location: |C:\Users\pfs20\CS110\CS0-Psheley\Labs\Stdio\kattis\oddities.py|
+| Notes: | Complete |
+| Grade: | 100% |
