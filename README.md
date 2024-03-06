@@ -30,6 +30,12 @@ ________________________________________________________________________________
 |All test cases passed and ran with multiple numbers and varified with 3rd party calculator|
 |I deserve a 100% grade|
 
+## 4 - Conditionals 
+|Takes 5 numbers from user and puts numbers through differnt opperations|
+|met all reqirements|
+|All test cases passed and ran with multiple numbers and varified with 3rd party calculator|
+|I deserve a 100% grade|
+
 _______________________________________________________________________________________________________________
 
 # LABS
