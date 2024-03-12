@@ -36,6 +36,12 @@ ________________________________________________________________________________
 |All test cases passed and ran with multiple numbers and varified with 3rd party calculator|
 |I deserve a 100% grade|
 
+## 5 - Guess the number
+|Plays a game where you have to guess a number in 6 tries|
+|met all reqirements|
+|Program meets all reqirments and has been tested at least 20 times|
+|I deserve a 100% grade|
+
 _______________________________________________________________________________________________________________
 
 # LABS
