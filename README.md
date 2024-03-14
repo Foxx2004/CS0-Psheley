@@ -122,3 +122,14 @@ ________________________________________________________________________________
 | Location: |C:\Users\pfs20\CS110\CS0-Psheley\Labs\Stdio\kattis\oddities.py|
 | Notes: | Complete |
 | Grade: | 100% |
+
+## Lab #6a
+| Name | Value |
+| --- | --- |
+| Name: | string |
+| Description: | "takes a string and checks if it contains specified things" |
+| Due Date: | 3/14/24 |
+| Status: | Complete |
+| Location: |C:\Users\pfs20\CS110\CS0-Psheley\Labs\Stdio\strings\string.py|
+| Notes: | Complete |
+| Grade: | 100% |
