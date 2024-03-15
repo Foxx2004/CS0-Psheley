@@ -133,3 +133,14 @@ ________________________________________________________________________________
 | Location: |C:\Users\pfs20\CS110\CS0-Psheley\Labs\Stdio\strings\string.py|
 | Notes: | Complete |
 | Grade: | 100% |
+
+## Lab #6b
+| Name | Value |
+| --- | --- |
+| Name: | hiss |
+| Description: | "checks if there is 'ss' in string then tells you if there is or not " |
+| Due Date: | 3/14/24 |
+| Status: | Complete |
+| Location: |CS0-Psheley\Labs\Stdio\kattis\hiss.py|
+| Notes: | Complete |
+| Grade: | 100% |
